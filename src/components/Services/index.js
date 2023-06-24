@@ -19,8 +19,8 @@ const Services = () => {
         <ServicesWrapper>
             <ServicesCard>
               <ServicesIcon src={Icon1}/>
-              <ServicesH2> Learn Guga </ServicesH2>
-              <ServicesP> We guide users to achieve expertise in Guga training. </ServicesP>
+              <ServicesH2> Learn tech </ServicesH2>
+              <ServicesP> We guide users to achieve expertise in tech training. </ServicesP>
             </ServicesCard>
             <ServicesCard>
               <ServicesIcon src={Icon2}/>

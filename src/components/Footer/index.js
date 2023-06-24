@@ -67,9 +67,9 @@ const Footer = () => {
                 <SocialMedia>
                     <SocialMediaWrap>
                         <SocialLogo to='/' onClick={toggleHome}>
-                            guga
+                            services
                         </SocialLogo>
-                        <WebsiteRights> guga © {new Date().getFullYear()} All rights reserved. </WebsiteRights>
+                        <WebsiteRights> services © {new Date().getFullYear()} All rights reserved. </WebsiteRights>
                         <SocialIcons>
                             <SocialIconLink href="/" target="_blank" aria-label="Facebook">
                                 <FaFacebook />

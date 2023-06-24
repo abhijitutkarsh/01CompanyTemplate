@@ -29,10 +29,10 @@ const HeroSection = () => {
                 <VideoBg autoPlay loop muted src={Video} type='video/mp4'/>
             </HeroBg>
             <HeroContent>
-                <HeroH1> Experience the guga </HeroH1>
+                <HeroH1> Experience the services with Abhijit </HeroH1>
                 <HeroP> 
                     Sign up for a new account today and receive 
-                    free access to the world's first interactive guga.
+                    free access to the world's first interactive services.
                 </HeroP>
                 <HeroBtnWrapper>
                     <Button 
